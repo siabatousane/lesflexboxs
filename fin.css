@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(248, 187, 20);
+
+}
+header, footer
+{
+    justify-content: center;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin-top: -15px;
+    background-color: rgb(11, 129, 226);
+    height: 90px;
+}
+.conteneur{
+    display: flex;
+    height: 500px;
+    justify-content: center;
+}
+.conteneur h1{
+    padding-top: 200px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
